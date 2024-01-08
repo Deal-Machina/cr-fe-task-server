@@ -2,6 +2,8 @@
 
 This is a very rudimentary server for use with the task for applicants to CloseRocket's FE team.
 
+### You can find the [assignment description here](https://docs.google.com/document/d/1hX5Azk_Cdl8Bd9qsO6V9fg4sVPRy6jDev1E4MJNKqjU/view)
+
 
 ## Installation and running the server
 
